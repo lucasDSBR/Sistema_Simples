@@ -1,0 +1,10 @@
+Crie um banco de dados com o nome: usuarios.
+E coloque o aquivo sql que se encontranesta pasta nele.
+
+Desenvolvido por Lucas Silva
+
+E-mail: lucasmaciel6690@gmail.com
+
+linkedin(Lucas Silva): https://www.linkedin.com/in/lucas-silva-a9582b188/
+
+Lattes: http://lattes.cnpq.br/6136104141544990
